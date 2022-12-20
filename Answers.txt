@@ -1,0 +1,210 @@
+General
+
+East Antarctica
+"K2",
+"Santoro Kangri",
+"Africa"
+,"China"
+,"Cheetah"
+,"Nilgiri Biopshere Reserve"
+,"Hydrogen"
+,"Rajasthan"
+,"Diamond"
+,"Ganga"
+,"Africa"
+,"Mango"
+,"Lotus"
+,"Sphygmomanometer"
+,"India"
+,"Camel"
+,"Blue whale"
+,"Femur",
+"Lion",
+"Peacock"
+,"Asia",
+"Russia",
+"Dr. B.R. Ambedkar",
+"Banyan Tree",
+"Wular Lake",
+"Pacific Ocean"
+,"Mahatma Gandhi"
+,"India and Pakistan"
+,"Tibetan Plateau"
+,"Ganga","Amarkantak"
+,"Tropic of Cancer",
+"Nile river",
+"Tooth Decay",
+"Skin",
+"English",
+"Mandarin Chinese",
+"Sun"
+,"Solar Energy"
+,"New Delhi"
+,"50 stars",
+"1945",
+"1837 to 1901"
+,"Shah Jahan",
+"Demeter",
+"Theodore Roosevelt",
+"Julia Gilliard",
+"1431",
+"1776"
+,"Abraham Lincoln",
+"I.N.S Chakra",
+"Sukumar Sen"
+,"Nalanda University",
+"Tirupur",
+"Khan Abdul Ghaffar Khan"
+,"Kolkata",
+"Its gravitational pull is not strong enough",
+"J. B. Lamarck",
+"Earth"s Gravitational Pull"
+,"A heavy shower of rain",
+"Forensic Science",
+"Conservation of momentum"
+,"iNCOVACC",
+"Andhra Pradesh"
+,"Tata MD",
+"Sikhism",
+"Justice Indu Malhotra",
+"Turkenminstan"
+,"Puducherry",
+"Kerala",
+"Russia",
+"Shashi Shekhar Vempati",
+"Kolkata",
+"Sardar Vallabhbhai Patel"
+,"Africa",
+"South Sudan",
+"K Radhakrishnan",
+"Falcon Heavy",
+"Indian Army",
+"Three",
+"9 November",
+"2000",
+"5.8%"
+,"NTPC Limited",
+"8.5%",
+"NLC India",
+"Partap Chauhan",
+"NITI Aayog",
+"Madhu C. Narayanan",
+"Brajendra Navnit",
+"Ashok Sahni"
+,"Va Tech Wabag"
+,"Vajra",
+"National Aeronautics and Space Administration (NASA)",
+"JNCASR",
+"24 January",
+"Mumbai",
+"Himachal Pradesh",
+"ICE Futures- Europe"
+
+
+Sports
+
+1 Lawn Tennis 
+2 Uber Cup
+3 15
+4 2010
+5 English and French
+6 Sakshi Malik
+7 Horse Racing 
+8 Pakistan 
+9 Cricket 
+10 Indian Premier League -III 
+11 Golf
+12 Merdeka Cup
+13 Don Budge
+14 France
+15 Savita Punia
+16 Chamonix
+17 Trinidad and Tobago
+18 22 meter long
+19 An English Cricketer
+20 England
+21 Rohit Sharma
+22 Lyn Fullston
+23 1992 Cricket World Cup
+24 10
+25 India
+26 Basketball
+27 Four
+28 England
+29 Cricket
+30 Garrard & Co
+31 1936 Olympics
+32 India
+33 Malaysia
+34 6
+35 1996 Olympic Games
+36 Uruguay Vs Argentina
+37 United States of America
+38 A French tennis player
+39 Tennis
+40 Serena Williams
+41 As an Indian badminton player
+42 Prakash Padukone
+43 Greece
+44 United States of America
+45 Table Tennis
+46 Paul Drinkhall and Liam Pitchford
+47 Arnold Palmer
+48 Golf
+49 Bianca Pagdanganan 
+50 John Graham Chambers 
+
+Science
+
+1 Deoxyribonucleic acid
+2 206
+3 Sir Isaac Newton
+4 Diamond
+5 Nitrogen
+6 98 per cent
+7 Nitrogen
+8 8 minutes
+9 Stephen Hawking
+10 -40
+11 Poland
+12 Jupiter
+13 Atomic number
+14 33
+15 Sputnik 1
+16 Hippocratic Oath
+17 Insulator
+18 Apollo 15
+19 32
+20 Mycology
+21 9 brains, 3 hearts
+22 J
+23 Cheetah
+24 2
+25 Light Amplification by Stimulated Emission of Radiation
+26 The circumference
+27 False
+28 The Pacific
+29 Sputnik 1
+30 Tim Berners-Lee
+31 True
+32 The ear
+33 Zero
+34 Brain freeze
+35 Universal Serial Bus
+36 Antartica
+37 2010
+38 The liver
+39 AB Negative
+40 2006
+41 The Antarctic blue whale
+42 Mount Vesuvius
+43 Peeling skin
+44 243
+45 4 - solid, liquid, gas and plasma
+46 Radiation
+47 Moons
+48 1970
+49 Silver
+50 The smallpox vaccine
+
+
