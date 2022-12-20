@@ -1,0 +1,40 @@
+{
+   "ques" : [
+    "       Which is the coldest \nlocation in the earth?",
+    "       Which is the highest peak in India?",
+    "       The second highest peak in India?",
+    "     Which is the continent with the\n most number of countries?",
+    "       Which is the country with the\n most people?",
+    "     Which Indian woman wrestler won\n a bronze in the Rio Olympics?",
+    "     Which of the following is not a major\n source of revenue for the Olympic Movement?",
+    "       Where are the headquarters of \nInternational World Games Association?",
+    "     After a gap of how many years is the \nWorld Shooting Championships held?",
+    "     Which teams played the first \nTest Match and when?",
+    "     What modern-day country\n was Marie Curie born in?",
+    "        What is the biggest planet\n in our solar system?",
+    "     What name is given for the number of\n protons found in the nucleus of an atom?",
+    "       How many vertebrae does the\n average human possess?",
+    "   What was the name of the first \nman-made satellite launched in 1957?"
+    ],
+
+    "options" : [
+    ["East Antarctica","Verkhoyansk","North Ice","Denali"],
+    ["K2","Kangchenjunga","Nanda Devi","Kamet"],
+    ["Santoro Kangri","Kamet","Trisul","Kangchenjunga"],
+    ["Africa","Asia","North America","Europe"],
+    ["China","India","United States","Indonesia"],
+    ["Pooja Gehlot","Mirabai Chanu","Sakshi Malik","Vinesh Malik"],
+    ["Field Hockey","Horse Racing","Table Tennis","Show Jumping"],
+    ["Spain","France","UK","Switzerland"],
+    ["Five","Four","One","Three"],
+    ["Australia","West Indies","New Zealand","South Africa"],
+    ["Australia","Russia","Canada","Poland"],
+    ["Pluto","Jupiter","Venus","Mars"],
+    ["Mass Number","Atomic Number","Coordination number","Molecule Number"],
+    ["33","35","37","39"],
+    ["Sputnik 1","Explorer 1","Vanguard 1","Bhaskara 2"]
+    ],
+
+    "ans" : [ 1, 1, 1, 1, 1, 3, 1, 4, 2, 1, 4, 2, 2, 1, 1]
+
+}
